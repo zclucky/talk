@@ -1,11 +1,11 @@
 {
-    "name": "zc/hello-composer",
+    "name": "zhangchao/hello-composer",
     "description": "It's my test app.",
     "type": "composer-plugin",
     "license": "MIT",
     "authors": [
         {
-            "name": "zc",
+            "name": "zhangchao",
             "email": "myxxqy@gmail.com"
         }
     ],
